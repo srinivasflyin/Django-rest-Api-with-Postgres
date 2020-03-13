@@ -1,0 +1,44 @@
+[
+  { "fields": {
+    "name": "gulter",
+    "address": "chennai"},
+     "model": "webapp.author",
+     "pk": "1"
+  },
+  { "fields": {
+    "name": "sara",
+    "address": "bangalore"
+  },
+    "model": "webapp.author",
+     "pk": "2"
+
+  },
+  { "fields": {
+    "name": "wilson",
+    "address": "hyderabad"
+  },
+     "model": "webapp.author",
+     "pk": "3"
+  },
+  { "fields": {
+    "name": "viggi",
+    "address": "singapore"
+     },
+     "model": "webapp.author",
+     "pk": "4"
+  },
+  { "fields": {
+    "name": "balu",
+    "address": "bangalore"
+  },
+     "model": "webapp.author",
+     "pk": "5"
+  },
+  { "fields": {
+    "name": "bablu",
+    "address": "vizag"
+  },
+     "model": "webapp.author",
+     "pk": "6"
+  }
+]

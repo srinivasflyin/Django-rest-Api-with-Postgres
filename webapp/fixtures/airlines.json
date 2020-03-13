@@ -1,0 +1,45 @@
+[
+  {
+    "fields": {
+      "name": "kingfisher",
+      "type": "t1"
+    },
+     "model": "webapp.airlines",
+      "pk": "1"
+  },
+  {
+    "fields": {
+      "name": "expedia",
+    "type": "t2"
+    },
+     "model": "webapp.airlines",
+      "pk": "2"
+  },
+  {
+    "fields": {
+    "name": "amadeus",
+    "type": "t3"},
+     "model": "webapp.airlines",
+      "pk": "3"
+  },
+  {
+    "fields": {
+    "name": "saper",
+    "type": "t4"},
+     "model": "webapp.airlines",
+      "pk": "4"
+  },
+  {
+    "fields": {
+    "name": "vistara",
+    "type": "t5"},
+     "model": "webapp.airlines",
+      "pk": "5"
+  },
+  {"fields": {
+    "name": "thailand airlines",
+    "type": "t6"},
+     "model": "webapp.airlines",
+      "pk": "6"
+  }
+]

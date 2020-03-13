@@ -1,0 +1,50 @@
+[
+  {
+    "fields": {
+    "name": "kingfisher",
+     "author": "1"
+  },
+     "model": "webapp.cookbook",
+    "pk": "1"
+  },
+  {
+    "fields": {
+    "name": "expedia",
+     "author": "2"
+  },
+    "model": "webapp.cookbook",
+    "pk": "2"
+  },
+  {
+    "fields": {
+    "name": "amadeus",
+     "author": "3"
+  },
+     "model": "webapp.cookbook",
+    "pk": "3"
+  },
+  {
+    "fields": {
+    "name": "saper",
+     "author": "4"
+  },
+     "model": "webapp.cookbook",
+    "pk": "4"
+  },
+  {
+    "fields": {
+    "name": "vistara",
+     "author": "5"
+  },
+     "model": "webapp.cookbook",
+    "pk": "5"
+  },
+  {
+    "fields": {
+    "name": "thailand airlines",
+    "author": "6"
+  },
+     "model": "webapp.cookbook",
+    "pk": "6"
+  }
+]
